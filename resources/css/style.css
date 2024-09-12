@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(55, 55, 55);
+}
+p {
+color: #ffffffbb;
+}
+h2 {
+    font-size: 1rem;
+    color:#ffe3c4d4;
+}
+h1{
+    font-size: 3rem;
+    color:#ffe3c4d4;
+}
+a {
+    text-decoration: none;
+    background-color: #1b1b1bbb;
+    color:#ffffffbb;
+    padding: 20px;
+}
+
